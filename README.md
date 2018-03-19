@@ -4,7 +4,9 @@ A recreation of the beloved game *Set* using the Stimulus JS framework.
 
 #### MVP
 
-One color, all symbols, all shadings.
+One color, all numbers, all symbols, all shadings.
+
+All green. One to three symbols. No shading, part shading, and full shading. Diamond, squiggle, and oval.
 
 ## Getting Started
 
